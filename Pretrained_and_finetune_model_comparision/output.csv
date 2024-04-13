@@ -1,0 +1,101 @@
+id,input_text,finetune_prediction,pretrained_prediction,pretrained_prediction_cleaned,finetune_accuracy,pretrained_accuracy,sentence_labels
+1,"Reykjavík the capital and largest city of Iceland is located in southwestern Iceland, on the southern shore of Faxaflói bay.",employedBy,is,noRelation,0,0,locatedAt
+2,"Marsellie is located on the coast of the Gulf of Lion, part of the Mediterranean Sea.",managerOf,is located part on,locatedAt,0,1,locatedAt
+3,"The Aditya Birla Group (ABG) is an Indian multinational Fortune 500 company headquartered in Mumbai, Maharashtra.",locatedAt,is,noRelation,1,0,locatedAt
+4,"Darulaman is a locality in the south-western fringes of Kabul, Afghanistan, forming part of District 6.",locatedAt,is locality in,locatedAt,1,1,locatedAt
+5,Adelaide is situated on the Adelaide Plains north of the Fleurieu Peninsula.,employedBy,is situated on,locatedAt,0,1,locatedAt
+6,Garden City is a residential area of Melbourne located in the City of Port Phillip 5 km south-west of the Melbourne CBD.,locatedAt,is residential area in,locatedAt,1,1,locatedAt
+7,Scherpenheuvel-Zichem is a city and municipality located in the province of Flemish Brabant.,locatedAt,is,noRelation,1,0,locatedAt
+8,"Dimitrovgrad is a town in Haskovo Province, Bulgaria.",locatedAt,is town in,noRelation,1,0,locatedAt
+9,"Moroni which is located along the Route Nationale 1, has a port and several mosques such as the Badjanani Mosque.",managerOf,,noRelation,0,0,locatedAt
+10,Friern Hospital was a large Victorian psychiatric hospital located in Friern Barnet.,locatedAt,was,managerOf,1,0,locatedAt
+11,The 1915 Çanakkale Bridge is a road suspension bridge located in the province of Çanakkale in northwestern Turkey.,locatedAt,is,managerOf,1,0,locatedAt
+12,"One Blackfriars bridge, also located on the South Bank, topped out in 2017 at 163 metres.",employedBy,also located on,locatedAt,0,1,locatedAt
+13,"Bresy is located in the southwestern part of Belarus, bordering the Podlasie.",employedBy,is located in,locatedAt,0,1,locatedAt
+14,"Amsterdam is located in the Dutch province of North Holland,[13]",locatedAt,is located in,locatedAt,1,1,locatedAt
+15,"The Kocatepe Mosque is the largest mosque in Ankara, Turkey.",locatedAt,is,noRelation,1,0,locatedAt
+16,Julie Sweet is chief executive officer (CEO) of Accenture.,managerOf,is,noRelation,1,0,managerOf
+17,Simon Daniel Weaver is an English football manager and former player who is manager of League Two side Harrogate Town.,locatedAt,is,noRelation,0,0,managerOf
+18,Pep Guardiola is a Spanish professional football manager and former player who is currently managing Premier League club Manchester City.,locatedAt,is,noRelation,0,0,managerOf
+19,"Samsung Electronics is overseen by Kim Ki-nam, who holds the position of Chief Executive Officer and President of the organization.",managerOf,is overseen by,noRelation,1,0,managerOf
+20,"Acme Innovations, a technology startup, is managed by Sarah Chang, who serves as the Chief Executive Officer.",managerOf,is managed by,managerOf,1,1,managerOf
+21,"Nexus BioTech, a biopharmaceutical company, is directed by Dr. Emily Chen, who serves as the Chief Operating Officer.",managerOf,is directed by,managerOf,1,1,managerOf
+22,"CipherSoft, a cybersecurity firm, is overseen by Michael Turner, who holds the role of Chief Security Officer and Managing Director.",managerOf,is overseen by,managerOf,1,1,managerOf
+23,"Novus Analytics, a data analytics startup, is managed by Olivia Bennett, who is the Chief Data Scientist and CEO.",managerOf,is,noRelation,1,0,managerOf
+24,"FusionX Labs, an augmented reality development company, is led by Alex Foster, the Chief Technology Officer and Founder.",managerOf,is led by,noRelation,1,0,managerOf
+25,"Quantum Solutions is led by Andrew Patel, who serves as the Operations Manager handling the company's day-to-day operations.",managerOf,handling,noRelation,1,0,managerOf
+26,"Horizon Dynamics is overseen by Brandon Wong, who holds the position of Chief Executive Officer and President of the organization",managerOf,is overseen by,managerOf,1,1,managerOf
+27,"Razorpay is directed by Harshil Mathur, who holds the position of Chief Executive Officer.",managerOf,is directed by,managerOf,1,1,managerOf
+28,"Zomato is managed by Deepinder Goyal, who acts as the Chief Executive Officer.",managerOf,is managed by,managerOf,1,1,managerOf
+29,"King, the creator of Candy Crush, is managed by Humam Sakhnini, who acts as the President of the organization.",employedBy,is managed by,managerOf,0,1,managerOf
+30,Martin Lundstedt is a Swedish businessman and has been President and CEO of the Volvo Group.,locatedAt,is,employedBy,0,0,managerOf
+31,"Facebook, now Meta, employs Christopher Thompson as a cybersecurity analyst to ensure user data protection.",employedBy,employs Christopher Thompson,employedBy,1,1,employedBy
+32,Alan Duke is a fact-checker employed by Facebook.,locatedAt,is,locatedAt,0,0,employedBy
+33,How is Matt Eberflus still employed by the Chicago Bears?,managerOf,is employed by,employedBy,0,1,employedBy
+34,"A native from Sadiqabad, Shafiqa Iqbal, who worked as a data engineer in Lahore, was employed by Google.",managerOf,is in,locatedAt,0,0,employedBy
+35,Paul Allen is working with Meta for last 15 years.,managerOf,is working for,employedBy,0,1,employedBy
+36,Mohammed Ali is employed by paraffin industries during the 2016 placements.,locatedAt,is employed by,employedBy,0,1,employedBy
+37,Yann LeCun has less credibility if he is employed by Meta.,employedBy,is employed by,employedBy,1,1,employedBy
+38,Your boy is officially employed by Tesla.,managerOf,is employed by,employedBy,0,1,employedBy
+39,Apple Inc. employs Michael Brown as a marketing specialist to enhance its brand presence.,managerOf,employs Michael Brown,employedBy,0,1,employedBy
+40,"SpaceX, the aerospace manufacturer and space transportation company, has Jonathan White employed as an aerospace engineer for its ambitious projects.",managerOf,employed as,employedBy,0,1,employedBy
+41,Tesla disinformer Russ Mitchell is employed by DrPatSoonShiong who owns zinc-air battery startups that directly compete with Tesla.,managerOf,is employed by,employedBy,0,1,employedBy
+42,Canadian researchers employed by Tesla have developed a new lithium-ion battery which could power vehicles for over a million miles.,managerOf,have developed,managerOf,0,0,employedBy
+43,"Patrick Lee is an architect employed by Urban Design Group, specializing in sustainable architecture. ",locatedAt,is,managerOf,0,0,employedBy
+44,Sarah Johnson works as a financial analyst under Exxon Corporation.,managerOf,works as,employedBy,0,1,employedBy
+45,Mark Anderson serves as the chief accountant and is on the staff of Financial Services Inc.,managerOf,serves as,employedBy,0,1,employedBy
+46,"The sun sets behind the mountains, casting a warm glow across the valley.",managerOf,sets behind,managerOf,0,0,noRelation
+47,"Birds chirp in the early morning, greeting the new day with their lively songs.",managerOf,greeting at_time,managerOf,0,0,noRelation
+48,"The aroma of freshly baked bread wafts through the air, enticing passersby with its delicious scent.",managerOf,wafts,managerOf,0,0,noRelation
+49,"A lone traveler walks along a deserted beach, leaving footprints in the soft sand.",managerOf,is in,managerOf,0,0,noRelation
+50,"A cat stretches lazily in the warm sunlight, finding a cozy spot for an afternoon nap.",managerOf,stretches lazily in,managerOf,0,0,noRelation
+51,"bay Faxaflói of shore southern the on Iceland, southwestern in located is Iceland of city largest and capital the Reykjavík.",managerOf,,noRelation,0,0,locatedAt
+52,"Sea Mediterranean the of part Lion, of Gulf the of coast the on located is Marsellie.",managerOf,,locatedAt,0,1,locatedAt
+53,"Maharashtra in Mumbai, headquartered 500 company multinational Fortune Indian an is Group (ABG) Birla The Aditya.",managerOf,is in,noRelation,0,0,locatedAt
+54,"6 District of part forming Afghanistan, Kabul, of fringes south-western the in locality a is Darulaman.",managerOf,of Afghanistan is,locatedAt,0,1,locatedAt
+55,Peninsula Fleurieu the of north Plains Adelaide the on situated is Adelaide.,managerOf,is Adelaide of,locatedAt,0,1,locatedAt
+56,CBD Melbourne the of south-west km 5 Phillip Port of City the in located Melbourne of area residential a is City Garden.,managerOf,,locatedAt,0,1,locatedAt
+57,Brabant Flemish of province the in located municipality and city a is Scherpenheuvel-Zichem.,managerOf,is in,noRelation,0,0,locatedAt
+58,"Bulgaria Province, Haskovo in town a is Dimitrovgrad.",managerOf,Haskovo in,noRelation,0,0,locatedAt
+59,"Mosque Badjanani the as such mosques several and port a has 1, Nationale Route the along located is which Moroni.",managerOf,,noRelation,0,0,locatedAt
+60,Barnet Friern in located hospital psychiatric Victorian large a was Hospital Friern.,managerOf,was in,managerOf,0,0,locatedAt
+61,Turkey northwestern in Çanakkale of province the in located bridge suspension road a is Bridge Çanakkale 1915 The.,managerOf,is in,managerOf,0,0,locatedAt
+62,"metres 163 at 2017 in out topped Bank, South the on located also bridge, Blackfriars One.",managerOf,the on,locatedAt,0,1,locatedAt
+63,"Podlasie the bordering Belarus, of part southwestern the in located is Bresy.",managerOf,is Bresy of,locatedAt,0,1,locatedAt
+64,"Holland,[13 North of province Dutch the in located is Amsterdam.",managerOf,,locatedAt,0,1,locatedAt
+65,"Turkey Ankara, in mosque largest the is Mosque Kocatepe The.",locatedAt,is,noRelation,1,0,locatedAt
+66,Accenture of (CEO) officer executive chief is Sweet Julie.,managerOf,is of,noRelation,1,0,managerOf
+67,Town Harrogate side Two League of manager is who player former and manager football English an is Weaver Daniel Simon.,managerOf,,noRelation,1,0,managerOf
+68,City Manchester club League Premier managing currently is who player former and manager football professional Spanish a is Guardiola Pep.,managerOf,,noRelation,1,0,managerOf
+69,"organization the of President and Officer Executive Chief of position the holds who Ki-nam, Kim by overseen is Electronics Samsung.",managerOf,Kim by,noRelation,1,0,managerOf
+70,"Officer Executive Chief the as serves who Chang, Sarah by managed is startup, technology a Innovations, Acme.",managerOf,Sarah by,managerOf,1,1,managerOf
+71,"Officer Operating Chief the as serves who Chen, Emily Dr. by directed is company, biopharmaceutical a BioTech, Nexus.",managerOf,,managerOf,1,1,managerOf
+72,"Director Managing and Officer Security Chief of role the holds who Turner, Michael by overseen is firm, cybersecurity a CipherSoft,.",employedBy,is,managerOf,0,1,managerOf
+73,"CEO and Scientist Data Chief the is who Bennett, Olivia by managed is startup, analytics data a Analytics, Novus.",managerOf,Olivia by,noRelation,1,0,managerOf
+74,"Founder and Officer Technology Chief the Foster, Alex by led is company, development reality augmented an Labs, FusionX.",managerOf,augmented,noRelation,1,0,managerOf
+75,"operations day-to-day company's the handling Manager Operations the as serves who Patel, Andrew by led is Solutions Quantum.",managerOf,has,noRelation,1,0,managerOf
+76,"organizatio the of President and Officer Executive Chief of position the holds who Wong, Brandon by overseen is Dynamics Horizon.",managerOf,President of,managerOf,1,1,managerOf
+77,"Officer Executive Chief of position the holds who Mathur, Harshil by directed is Razorpay.",managerOf,Harshil by,managerOf,1,1,managerOf
+78,"Officer Executive Chief the as acts who Goyal, Deepinder by managed is Zomato.",managerOf,Deepinder by,managerOf,1,1,managerOf
+79,"organization the of President the as acts who Sakhnini, Humam by managed is Crush, Candy of creator the King,.",managerOf,Humam by,managerOf,1,1,managerOf
+80,Group Volvo the of CEO and President been has and businessman Swedish a is Lundstedt Martin.,managerOf,,employedBy,1,0,managerOf
+81,"protection data user ensure to analyst cybersecurity a as Thompson Christopher employs Meta, now Facebook,.",managerOf,ensure to,employedBy,0,1,employedBy
+82,Facebook by employed fact-checker a is Duke Alan.,managerOf,is,locatedAt,0,0,employedBy
+83,Bears Chicago the by employed still Eberflus Matt is How.,managerOf,,employedBy,0,1,employedBy
+84,"Google by employed was Lahore, in engineer data a as worked who Iqbal, Shafiqa Sadiqabad, from native A.",employedBy,was,locatedAt,1,0,employedBy
+85,years 15 last for Meta with working is Allen Paul.,managerOf,,employedBy,0,1,employedBy
+86,placements 2016 the during industries paraffin by employed is Ali Mohammed.,managerOf,is,employedBy,0,1,employedBy
+87,Meta by employed is he if credibility less has LeCun Yann.,managerOf,has,employedBy,0,1,employedBy
+88,Tesla by employed officially is boy Your.,managerOf,is,employedBy,0,1,employedBy
+89,presence brand its enhance to specialist marketing a as Brown Michael employs Inc. Apple.,managerOf,,employedBy,0,1,employedBy
+90,"projects ambitious its for engineer aerospace an as employed White Jonathan has company, transportation space and manufacturer aerospace the SpaceX,.",managerOf,,employedBy,0,1,employedBy
+91,Tesla with compete directly that startups battery zinc-air owns who DrPatSoonShiong by employed is Mitchell Russ disinformer Tesla.,managerOf,is,employedBy,0,1,employedBy
+92,miles million a over for vehicles power could which battery lithium-ion new a developed have Tesla by employed researchers Canadian.,managerOf,,managerOf,0,0,employedBy
+93,"architecture. sustainable in specializing Group, Design Urban by employed architect an is Lee Patrick.",managerOf,,managerOf,0,0,employedBy
+94,Corporation Exxon under analyst financial a as works Johnson Sarah.,managerOf,,employedBy,0,1,employedBy
+95,Inc Services Financial of staff the on is and accountant chief the as serves Anderson Mark.,managerOf,is,employedBy,0,1,employedBy
+96,"valley the across glow warm a casting mountains, the behind sets sun The.",managerOf,sets across,managerOf,0,0,noRelation
+97,"songs lively their with day new the greeting morning, early the in chirp Birds.",managerOf,,managerOf,0,0,noRelation
+98,"scent delicious its with passersby enticing air, the through wafts bread baked freshly of aroma The.",managerOf,enticing,managerOf,0,0,noRelation
+99,"sand soft the in footprints leaving beach, deserted a along walks traveler lone A.",managerOf,deserted,managerOf,0,0,noRelation
+100,"nap afternoon an for spot cozy a finding sunlight, warm the in lazily stretches cat A.",managerOf,,managerOf,0,0,noRelation

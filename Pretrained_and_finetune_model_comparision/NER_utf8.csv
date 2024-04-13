@@ -1,0 +1,51 @@
+Sentence,manual_answer,pretrained_prediction_cleaned
+"Reykjavík the capital and largest city of Iceland is located in southwestern Iceland, on the southern shore of Faxaflói bay.",locatedAt,noRelation
+"Marsellie is located on the coast of the Gulf of Lion, part of the Mediterranean Sea.",locatedAt,locatedAt
+"The Aditya Birla Group (ABG) is an Indian multinational Fortune 500 company headquartered in Mumbai, Maharashtra.",locatedAt,noRelation
+"Darulaman is a locality in the south-western fringes of Kabul, Afghanistan, forming part of District 6.",locatedAt,locatedAt
+Adelaide is situated on the Adelaide Plains north of the Fleurieu Peninsula.,locatedAt,locatedAt
+Garden City is a residential area of Melbourne located in the City of Port Phillip 5 km south-west of the Melbourne CBD.,locatedAt,locatedAt
+Scherpenheuvel-Zichem is a city and municipality located in the province of Flemish Brabant.,locatedAt,noRelation
+"Dimitrovgrad is a town in Haskovo Province, Bulgaria.",locatedAt,noRelation
+"Moroni which is located along the Route Nationale 1, has a port and several mosques such as the Badjanani Mosque.",locatedAt,noRelation
+Friern Hospital was a large Victorian psychiatric hospital located in Friern Barnet.,locatedAt,managerOf
+The 1915 Çanakkale Bridge is a road suspension bridge located in the province of Çanakkale in northwestern Turkey.,locatedAt,managerOf
+"One Blackfriars bridge, also located on the South Bank, topped out in 2017 at 163 metres.",locatedAt,locatedAt
+"Bresy is located in the southwestern part of Belarus, bordering the Podlasie.",locatedAt,locatedAt
+"Amsterdam is located in the Dutch province of North Holland,[13]",locatedAt,locatedAt
+"The Kocatepe Mosque is the largest mosque in Ankara, Turkey.",locatedAt,noRelation
+Julie Sweet is chief executive officer (CEO) of Accenture.,managerOf,noRelation
+Simon Daniel Weaver is an English football manager and former player who is manager of League Two side Harrogate Town.,managerOf,noRelation
+Pep Guardiola is a Spanish professional football manager and former player who is currently managing Premier League club Manchester City.,managerOf,noRelation
+"Samsung Electronics is overseen by Kim Ki-nam, who holds the position of Chief Executive Officer and President of the organization.",managerOf,noRelation
+"Acme Innovations, a technology startup, is managed by Sarah Chang, who serves as the Chief Executive Officer.",managerOf,managerOf
+"Nexus BioTech, a biopharmaceutical company, is directed by Dr. Emily Chen, who serves as the Chief Operating Officer.",managerOf,managerOf
+"CipherSoft, a cybersecurity firm, is overseen by Michael Turner, who holds the role of Chief Security Officer and Managing Director.",managerOf,managerOf
+"Novus Analytics, a data analytics startup, is managed by Olivia Bennett, who is the Chief Data Scientist and CEO.",managerOf,noRelation
+"FusionX Labs, an augmented reality development company, is led by Alex Foster, the Chief Technology Officer and Founder.",managerOf,noRelation
+"Quantum Solutions is led by Andrew Patel, who serves as the Operations Manager handling the company's day-to-day operations.",managerOf,noRelation
+"Horizon Dynamics is overseen by Brandon Wong, who holds the position of Chief Executive Officer and President of the organization",managerOf,managerOf
+"Razorpay is directed by Harshil Mathur, who holds the position of Chief Executive Officer.",managerOf,managerOf
+"Zomato is managed by Deepinder Goyal, who acts as the Chief Executive Officer.",managerOf,managerOf
+"King, the creator of Candy Crush, is managed by Humam Sakhnini, who acts as the President of the organization.",managerOf,managerOf
+Martin Lundstedt is a Swedish businessman and has been President and CEO of the Volvo Group.,managerOf,employedBy
+"Facebook, now Meta, employs Christopher Thompson as a cybersecurity analyst to ensure user data protection.",employedBy,employedBy
+Alan Duke is a fact-checker employed by Facebook.,employedBy,locatedAt
+How is Matt Eberflus still employed by the Chicago Bears?,employedBy,employedBy
+"A native from Sadiqabad, Shafiqa Iqbal, who worked as a data engineer in Lahore, was employed by Google.",employedBy,locatedAt
+Paul Allen is working with Meta for last 15 years.,employedBy,employedBy
+Mohammed Ali is employed by paraffin industries during the 2016 placements.,employedBy,employedBy
+Yann LeCun has less credibility if he is employed by Meta.,employedBy,employedBy
+Your boy is officially employed by Tesla.,employedBy,employedBy
+Apple Inc. employs Michael Brown as a marketing specialist to enhance its brand presence.,employedBy,employedBy
+"SpaceX, the aerospace manufacturer and space transportation company, has Jonathan White employed as an aerospace engineer for its ambitious projects.",employedBy,employedBy
+Tesla disinformer Russ Mitchell is employed by DrPatSoonShiong who owns zinc-air battery startups that directly compete with Tesla.,employedBy,employedBy
+Canadian researchers employed by Tesla have developed a new lithium-ion battery which could power vehicles for over a million miles.,employedBy,managerOf
+"Patrick Lee is an architect employed by Urban Design Group, specializing in sustainable architecture. ",employedBy,managerOf
+Sarah Johnson works as a financial analyst under Exxon Corporation.,employedBy,employedBy
+Mark Anderson serves as the chief accountant and is on the staff of Financial Services Inc.,employedBy,employedBy
+"The sun sets behind the mountains, casting a warm glow across the valley.",noRelation,managerOf
+"Birds chirp in the early morning, greeting the new day with their lively songs.",noRelation,managerOf
+"The aroma of freshly baked bread wafts through the air, enticing passersby with its delicious scent.",noRelation,managerOf
+"A lone traveler walks along a deserted beach, leaving footprints in the soft sand.",noRelation,managerOf
+"A cat stretches lazily in the warm sunlight, finding a cozy spot for an afternoon nap.",noRelation,managerOf
